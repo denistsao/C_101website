@@ -277,7 +277,7 @@ padding-top: 40px;
 
 
 .hover img:nth-of-type(2):hover{
-  opacity:0; /滑鼠滑入時，透明度變0/
+  opacity:0; /*滑鼠滑入時，透明度變0*/
 }
 
 /*簡介*/
@@ -285,6 +285,7 @@ padding-top: 40px;
 	font-family: "Noto Sans TC", sans-serif;
     font-weight: 300;
     font-size: 16px;
+
 }
 
 
@@ -336,10 +337,10 @@ padding-top: 40px;
 
 .b101_text{
 	font-family: "Noto Sans TC", sans-serif;
-	 font-weight: 300;
-    font-size: 16px;
+	font-weight: 300;
     line-height: 28px;
     letter-spacing: 1px;
+	font-size: 18px;
 }
 
 /*news*/
@@ -356,6 +357,7 @@ padding-top: 40px;
     line-height: 28px;
     letter-spacing: 1px;
 	font-size: 18px;
+	
 }
 
 .union_info{
