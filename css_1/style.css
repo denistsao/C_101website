@@ -5111,7 +5111,7 @@ i:before {
 
 .cases_item .cases_image h4 {
   position: absolute;
-  top: 50%;/*之中文字的位置*/
+  top: 30%;/*之中文字的位置*/
   left: 0px;
   width: 100%;
   text-align: center;
@@ -5162,7 +5162,7 @@ i:before {
 
 .cases_item p {
   font-size: 17px;
-  line-height: 26px;
+  line-height: 30px;
   font-family: "Lato", sans-serif;
   letter-spacing: .34px;
   font-weight: bold;
