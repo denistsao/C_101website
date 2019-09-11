@@ -188,6 +188,7 @@ text-decoration:#000000;
 
 /*gotop按鈕語法*/
 #myBtn {
+    font-family: "Noto Sans TC", sans-serif;
     display: none;
     position: fixed;
     bottom: 20px;
@@ -196,7 +197,7 @@ text-decoration:#000000;
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: red;
+    background-color: #be1d2c;
     color: white;
     cursor: pointer;
     padding: 15px;
